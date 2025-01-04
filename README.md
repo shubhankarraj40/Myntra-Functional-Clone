@@ -45,12 +45,12 @@ Welcome to the **Myntra Clone** project! This web application replicates basic f
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/myntra-clone.git
+   git https://github.com/shubhankarraj40/Myntra-Functional-Clone.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd myntra-clone
+   cd Myntra-Functional-Clone
    ```
 
 3. **Open the Application:**
@@ -91,11 +91,13 @@ Welcome to the **Myntra Clone** project! This web application replicates basic f
 
 ### Main Product Page
 - Displays a list of products with their details.
+  
   ![Screenshot (10)](https://github.com/user-attachments/assets/e1567fc2-a6e5-4524-a17d-8fce3ac2ee94)
 
 
 ### Shopping Bag Page
 - Lists items added to the bag with their individual and total prices.
+  
   ![Screenshot (9)](https://github.com/user-attachments/assets/75cbb16b-5917-4785-8fbd-1116dc21e67e)
 
 
